@@ -3,4 +3,4 @@ Fly adapted to superspike
 
 
 
-![alt text](https://imgur.com/a/fUuUpcY)
+![Fly learning](https://i.imgur.com/dO9whj1.png)
