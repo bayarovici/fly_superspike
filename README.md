@@ -16,15 +16,10 @@ Zenke, F., and Ganguli, S. (2018). SuperSpike: Supervised Learning in Multilayer
 ## Requirements
 
 You will need a working compiled version of the Auryn library (https://github.com/fzenke/auryn).
-We have tested this with commit 6f88977da186e874c75ce3cdbba59d83748fe53c.
-Fly adapted to superspike
 
 
-License & Copyright 
--------------------
 
 Based on:
-Bibtex:
 ```
 @article{zenke_superspike:_2018,
 	title = {{SuperSpike}: {Supervised} {Learning} in {Multilayer} {Spiking} {Neural} {Networks}},
