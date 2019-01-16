@@ -4,7 +4,7 @@
 
 ## Intro
 
-Fruit fly's olfactory circuit simulated using SuperSpike.
+Fruit fly's olfactory circuit simulated using SuperSpike. Code uses Friedemann Zenke's Auryn library and modifies code from the following paper:
 
 
 Zenke, F., and Ganguli, S. (2018). SuperSpike: Supervised Learning in Multilayer Spiking Neural Networks. Neural Computation 30, 1514–1541.
